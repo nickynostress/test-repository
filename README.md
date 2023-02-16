@@ -18,6 +18,10 @@ _Get started using GitHub in less than an hour._
   Do not use quotes on the <details> tag attributes.
 -->
 
+The apple is green. The tree is big. 
+
+
+
 <details id=0>
 <summary><h2>Welcome</h2></summary>
 
